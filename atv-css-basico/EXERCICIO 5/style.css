@@ -1,0 +1,9 @@
+#cabecalho{
+    color: green;
+}
+.conteudo{
+    border: 3px solid black;
+}
+p{
+    font-family: Arial;
+}
